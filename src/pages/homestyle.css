@@ -1,0 +1,32 @@
+.hero{
+    display: flex;
+    justify-content:center;
+    padding: 50px;
+    background-color: white;
+}
+.hero-content {
+    align-content: center;
+    padding: 20px;
+}
+.hero-content h1{
+    font-size: 80px;
+    padding-bottom: 0px;
+    margin: 0;
+}
+.hero-content h3{
+    font-size: 38px;
+    padding-bottom: 0px;
+    margin: 0;
+}
+.hero-content button{
+    border: none;
+    border-radius: 5px;
+    background-color:white;
+    color: aqua;
+    margin: 20px;
+}
+
+.hero-content img{
+    max-width: 50%;
+    height: 50%;
+}
